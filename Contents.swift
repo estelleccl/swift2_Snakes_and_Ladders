@@ -136,6 +136,7 @@ class Game {
                     print("**************************")
                     print("We have a winner", player.name)
                     print("**************************")
+                    break
                 }
             }
         }
